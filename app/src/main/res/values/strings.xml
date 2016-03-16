@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidInstumentedTesting</string>
+    <string name="str_email">Email</string>
+    <string name="str_password">Password</string>
+    <string name="str_submit">Submit</string>
+    <string name="str_full_name">Fullname</string>
+    <string name="str_finish">Finish</string>
+</resources>
